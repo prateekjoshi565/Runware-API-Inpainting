@@ -1,1 +1,1 @@
-# Runware-API-Inpainting
+# Runware API Inpainting
